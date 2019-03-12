@@ -1,10 +1,10 @@
-package com.examples.crazy.abstractFactory;
+package com.examples.crazy.abstractFactory.pattern01;
 
-import com.examples.crazy.abstractFactory.abst.BikeFactory;
-import com.examples.crazy.abstractFactory.abst.Body;
-import com.examples.crazy.abstractFactory.abst.Wheel;
-import com.examples.crazy.abstractFactory.gt.GtBikeFactory;
-import com.examples.crazy.abstractFactory.sam.SamFactory;
+import com.examples.crazy.abstractFactory.pattern01.abst.BikeFactory;
+import com.examples.crazy.abstractFactory.pattern01.abst.Body;
+import com.examples.crazy.abstractFactory.pattern01.abst.Wheel;
+import com.examples.crazy.abstractFactory.pattern01.gt.GtBikeFactory;
+import com.examples.crazy.abstractFactory.pattern01.sam.SamFactory;
 
 public class Main {
 
