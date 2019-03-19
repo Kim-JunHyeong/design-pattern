@@ -1,4 +1,4 @@
-package com.examples.crazy.chainOfResponsibility;
+package com.examples.crazy.chainOfResponsibility.pattern01;
 
 public class PlusCalculator extends Calculator {
 
