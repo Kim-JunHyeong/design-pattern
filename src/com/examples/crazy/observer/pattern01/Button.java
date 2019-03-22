@@ -1,4 +1,4 @@
-package com.examples.crazy.observer;
+package com.examples.crazy.observer.pattern01;
 
 public class Button {
 
